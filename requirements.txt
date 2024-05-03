@@ -1,0 +1,5 @@
+textblob
+streamlit
+pandas
+yfinance
+PyPDF2
