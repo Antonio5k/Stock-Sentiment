@@ -5,6 +5,7 @@ The 5K Classifier is a sentiment analysis tool designed to provide traders and i
 
 ## Live Application
 The application is hosted on Streamlit and can be accessed here.
+https://5k-classifier.streamlit.app/
 
 ## How It Works
 The application leverages the power of Natural Language Processing (NLP) to analyze and classify sentiment. Here's a step-by-step breakdown of how it works:
