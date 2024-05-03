@@ -6,11 +6,6 @@ import io
 import pandas as pd
 import yfinance as yf
 
-#Logo
-logo_path = "C:\\Users\\bmsto\\OneDrive\\Desktop\\trading_projects\\Sentiment_classifier\\app_files\photos\\5klabs.jpg"
-st.image(logo_path, width=100) 
-
-
 # Creating sentiment analyzer for stocks
 st.title('Stock Sentiment Analysis')
 
